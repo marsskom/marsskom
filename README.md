@@ -66,7 +66,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 #### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Loading CSV into MySQL](https://marsskom.github.io/blog//blog/Loading-CSV-into-MySQL/)
+- [Loading CSV into MySQL](https://marsskom.github.io//blog/Loading-CSV-into-MySQL/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
