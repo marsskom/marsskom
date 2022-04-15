@@ -59,11 +59,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### ✍️ Blog;
+### ✍️ Blog:
 
 [Blog Here](https://marsskom.github.io/blog)
 
-#### Latest Posts
+#### Latest Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Loading CSV into MySQL](https://marsskom.github.io//blog/Loading-CSV-into-MySQL/)
