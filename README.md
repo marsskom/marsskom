@@ -78,5 +78,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marsskom&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsskom)](https://github.com/anuraghazra/github-readme-stats) |
 |---|---|
 
-| [![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=marsskom&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marsskom&repo=doo-wiki)](https://github.com/marsskom/doo-wiki) |
+| [![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=marsskom&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | --- |
 |---|---|
