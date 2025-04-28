@@ -1,12 +1,8 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 <div id="header" align="center">
   <h1>Andrii Prakàpas</h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/prakapas/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=marsskom&style=flat-square&label=Counter&color=brightgreen" alt="Profile Counter"/>
     <a href="https://prakapas.notion.site/Andrii-Prak-pas-6082e91e18724dd995562b2b8733ed80">
       <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
     </a>
@@ -17,13 +13,13 @@
 
 ### 👨‍💻 About Me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Backend (with a JS knowledge) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 - 🔭 I’m working as a Software Engineer.
-- 🌱 I’m currently working as Magento 2 developer.
+- 🌱 I am currently developing a project that integrates a custom ERP system. I have previous experience working with Magento 2.
 - ⚡ In my free time, I develop pet-projects, study some new features, solve issues.
 - 👯 I’m looking to collaborate on Open Source.
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/prakapas/) or just write an email to me <a href="mailto:marsskom+github@gmail.com">marsskom+github@gmail.com</a>
+- 📬 How to reach me: <a href="mailto:sleeves_tunic2z@icloud.com">sleeves_tunic2z@icloud.com</a>
 
 ---
 
