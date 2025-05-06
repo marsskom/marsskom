@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <h1>Andrii Prakàpas</h1>
   <div id="badges">
-    <a href="https://prakapas.notion.site/Andrii-Prak-pas-6082e91e18724dd995562b2b8733ed80">
+    <a href="https://prakapas.notion.site/andrii-prakapas-cv">
       <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
     </a>
   </div>
