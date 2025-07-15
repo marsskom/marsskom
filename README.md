@@ -25,7 +25,7 @@ An independent thinker who prefers working with full focus on projects.
 - Employed full-time, currently focused on the development of a domain-specific ERP platform.
 - In my free time, I work on side projects, explore modern tools and technologies, and actively engage in problem-solving.
 - Enthusiastic about Open Source — although I haven't contributed yet.
-- Reach me <a href="mailto:sleeves_tunic2z&#64;icloud.com">sleeves_tunic2z&#64;icloud.com</a>
+- Reach me <a href="mailto:personal&#64;andriiprakapas.name">personal&#64;andriiprakapas.name</a>
 
 ---
 
