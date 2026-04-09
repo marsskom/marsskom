@@ -22,10 +22,11 @@ An independent thinker who prefers working with full focus on projects.
 
 ### Professional Overview
 
-- Employed full-time, currently focused on the development of a domain-specific ERP platform.
+- Currenctly unemployed and happy.
+- Employed full-time, was focused on the development of a domain-specific ERP platform.
 - In my free time, I work on side projects, explore modern tools and technologies, and actively engage in problem-solving.
 - Enthusiastic about Open Source — although I haven't contributed yet.
-- Reach me <a href="mailto:personal&#64;andriiprakapas.name">personal&#64;andriiprakapas.name</a>
+- My CV <a href="https://andriiprakapas.dev/">https://andriiprakapas.dev/</a>
 
 ---
 
