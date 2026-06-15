@@ -22,11 +22,18 @@ An independent thinker who prefers working with full focus on projects.
 
 ### Professional Overview
 
-- Currenctly unemployed and happy.
 - Employed full-time, was focused on the development of a domain-specific ERP platform.
 - In my free time, I work on side projects, explore modern tools and technologies, and actively engage in problem-solving.
 - Enthusiastic about Open Source — although I haven't contributed yet.
 - My CV <a href="https://andriiprakapas.dev/">https://andriiprakapas.dev/</a>
+
+---
+
+### GitHub
+
+I've relocated to GitLab, therefoe from now all repositories in GitHub are the official mirrors from the origin.
+
+You can find me <a href="https://gitlab.com/marsskom/">here</a>.
 
 ---
 
