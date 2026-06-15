@@ -31,7 +31,7 @@ An independent thinker who prefers working with full focus on projects.
 
 ### GitHub
 
-I've relocated to GitLab, therefoe from now all repositories in GitHub are the official mirrors from the origin.
+I've relocated to GitLab, therefore from now all repositories in GitHub are the official mirrors from the origin.
 
 You can find me <a href="https://gitlab.com/marsskom/">here</a>.
 
